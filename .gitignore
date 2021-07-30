@@ -10,6 +10,7 @@
 
 # production
 /build
+CI= npm run build
 
 # misc
 .DS_Store
